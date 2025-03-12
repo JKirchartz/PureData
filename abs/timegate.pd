@@ -1,0 +1,17 @@
+#N canvas 1061 563 450 300 12;
+#X obj 10 32 inlet;
+#X obj 10 56 t b b a;
+#X obj 10 80 realtime;
+#X obj 10 104 > 100;
+#X obj 10 128 sel 1;
+#X obj 10 152 list;
+#X obj 10 176 outlet;
+#X text 15 204 ingox timegate https://forum.pdpatchrepo.info/topic/12092/debouncing-was-measure-time-between-two-bangs-events/8;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
+#X connect 1 1 2 1;
+#X connect 1 2 5 1;
+#X connect 2 0 3 0;
+#X connect 3 0 4 0;
+#X connect 4 0 5 0;
+#X connect 5 0 6 0;

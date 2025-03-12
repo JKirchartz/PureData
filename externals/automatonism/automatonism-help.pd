@@ -1,0 +1,8 @@
+#N canvas 192 353 570 372 12;
+#X declare -path automatonism/patch_editor_abs;
+#X obj 10 90 declare -path automatonism/patch_editor_abs;
+#X obj 10 120 namecanvas \$0-this;
+#X text 135 15 AUTOMATONISM - RELOADED!;
+#X text 10 326 This is the new automatonism template patch. You can duplicate it every time you need to create a new music machine., f 63;
+#X obj 9 157 automatonism \$0;
+#A saved esc-active 1;

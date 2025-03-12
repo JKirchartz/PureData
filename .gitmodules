@@ -1,0 +1,45 @@
+[submodule "lib/eucalyd"]
+	path = lib/eucalyd
+	url = git@github.com:dr-kd/eucalyd.git
+[submodule "lib/mkmr"]
+	path = lib/mkmr
+	url = git@github.com:MikeMorenoDSP/pd-mkmr.git
+[submodule "lib/mian"]
+	path = lib/mian
+	url = git@github.com:MikeMorenoDSP/mian-.git
+[submodule "lib/pip"]
+	path = lib/pip
+	url = git@github.com:fbpsound/pip_abstractions.git
+[submodule "lib/floss"]
+	path = lib/floss
+	url = https://github.com/zzsnzmn/puredata-floss
+[submodule "lib/hacks"]
+	path = lib/hacks
+	url = git@github.com:automata/hackspd.git
+[submodule "lib/sandbox"]
+	path = lib/sandbox
+	url = git@github.com:taylor-vann/pd-sandbox.git
+[submodule "lib/dbaxaudio"]
+	path = lib/dbaxaudio
+	url = git@github.com:dbaxaudio/pureData.git
+[submodule "lib/mimosa"]
+	path = lib/mimosa
+	url = git@github.com:glerm/mimosalib.git
+[submodule "lib/808-thing"]
+	path = lib/808-thing
+	url = git@github.com:chr15m/808-thing.git
+[submodule "lib/chips"]
+	path = lib/chips
+	url = git@github.com:megrimm/pd-chips.git
+[submodule "lib/residuum"]
+	path = lib/residuum
+	url = https://codeberg.org/Residuum/Puredata-abstractions.git
+[submodule "lib/rjdj"]
+	path = lib/rjdj
+	url = git@github.com:rjdj/rjlib.git
+[submodule "lib/devstermarts"]
+	path = lib/devstermarts
+	url = https://github.com/devstermarts/PD-components
+[submodule "externals/DRFX"]
+	path = externals/DRFX
+	url = https://github.com/wbrent/DRFX.git

@@ -1,0 +1,12 @@
+#N canvas 516 0 801 1076 12;
+#X obj 115 181 tgl 19 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000 0 1;
+#X obj 116 83 key-abs 50 2;
+#X obj 149 181 bng 19 250 50 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000;
+#X obj 191 179 tgl 19 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000 0 1;
+#X obj 225 179 bng 19 250 50 0 empty empty empty 0 -10 0 12 #fcfcfc #000000 #000000;
+#X obj 187 82 key-abs 51 3;
+#X obj 417 82 octave-select-abs;
+#X connect 1 0 0 0;
+#X connect 1 0 2 0;
+#X connect 5 0 3 0;
+#X connect 5 0 4 0;

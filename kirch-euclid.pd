@@ -1,0 +1,3 @@
+#N canvas 224 224 450 300 12;
+#X declare -lib lib/euclid/midi-main;
+#X obj 48 36 declare -lib lib/euclid/midi-main;
